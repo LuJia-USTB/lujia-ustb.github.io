@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lujia-ustb.github.io/sitemap.xml
